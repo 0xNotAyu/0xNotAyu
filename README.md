@@ -15,7 +15,6 @@ Web3 & Solidity learner focused on understanding how smart contracts work under 
 - VS Code  
 
 ## 📫 Reach Me
-- X (Twitter): https://x.com/your-handle  
-- Email: ayutanu1230@gmail.com
+- X (Twitter): https://x.com/your-handle 
 
 > Learning by building, breaking, and fixing smart contracts.
